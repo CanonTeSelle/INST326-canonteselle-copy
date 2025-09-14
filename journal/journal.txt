@@ -1,3 +1,3 @@
 Week 1
 
-I asked Chat GBT how to sort data
+This week I used AI mainly for coding help. I asked for examples of functions I was struggling with and also tried to troubleshoot some problems I was having with VS Code. Unfortunately, the information I got wasn’t fully correct, so I ended up switching over to Google Colab to continue my work. Even though it wasn’t always accurate, I still found AI useful to double-check my code whenever I got stuck or needed another perspective.
