@@ -1,3 +1,8 @@
 Week 1
 
 This week I used AI mainly for coding help. I asked for examples of functions I was struggling with and also tried to troubleshoot some problems I was having with VS Code. Unfortunately, the information I got wasn’t fully correct, so I ended up switching over to Google Colab to continue my work. Even though it wasn’t always accurate, I still found AI useful to double-check my code whenever I got stuck or needed another perspective.
+
+Week 2
+This week i used AI for help with the Week 2 excersize. Was having troubling figuring out where to start for a few of the questions so it gave me a few ideas where to begin.
+My team and I also used AI to brainstorm ideas for the Project. 
+
