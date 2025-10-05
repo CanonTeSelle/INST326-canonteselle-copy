@@ -8,3 +8,6 @@ My team and I also used AI to brainstorm ideas for the Project.
 
 Week 3
 This week I used AI to help me better understand the concepts in my exercises. I also had it write some code so I could see how the solutions worked.
+
+Week 4
+This week I used AI for help with the weekly exercise. I had it give feedback on my code and give examples of how to better structure my code. It helped me double-check my approach and understand the logic behind it.
