@@ -14,3 +14,6 @@ This week I used AI for help with the weekly exercise. I had it give feedback on
 
 Week 5
 This week I used AI to help me come up with ideas for our library of functions and to make our README section look more organized and easier to read. I also used it while working on the coding exercises to help me understand what the code was actually doing and why it worked that way. It made things a lot clearer and helped me learn the concepts better while keeping everything for the project neat and easy to follow.
+
+Week 6 
+This week I used AI to explain concepts and provide example implementations for classes, instances, and static methods. I relied on AI to clarify how to structure classes, use helper methods, and work with class attributes. AI also helped simplify code and provided examples for debugging when needed.
