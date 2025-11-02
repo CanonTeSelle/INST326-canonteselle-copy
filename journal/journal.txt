@@ -17,3 +17,6 @@ This week I used AI to help me come up with ideas for our library of functions a
 
 Week 6 
 This week I used AI to explain concepts and provide example implementations for classes, instances, and static methods. I relied on AI to clarify how to structure classes, use helper methods, and work with class attributes. AI also helped simplify code and provided examples for debugging when needed.
+
+Week 7
+This week, I used AI to help with Python exercises and my project. It provided guidance on handling exceptions, writing functions, and testing my code. It also helped me figure out how to structure classes and integrate our function library effectively. I used it to explore different approaches, check my logic, and get suggestions when I ran into problems.
