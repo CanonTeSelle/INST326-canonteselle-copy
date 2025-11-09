@@ -20,3 +20,6 @@ This week I used AI to explain concepts and provide example implementations for 
 
 Week 7
 This week, I used AI to help with Python exercises and my project. It provided guidance on handling exceptions, writing functions, and testing my code. It also helped me figure out how to structure classes and integrate our function library effectively. I used it to explore different approaches, check my logic, and get suggestions when I ran into problems.
+
+Week 8
+This week I used AI to help me better understand how inheritance and polymorphism work. I used it to check my code, fix errors, and explain why certain methods didnt work. It also helped me see how different subclasses could share methods but still behave differently.
