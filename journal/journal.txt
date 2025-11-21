@@ -26,3 +26,6 @@ This week I used AI to help me better understand how inheritance and polymorphis
 
 Week 9
 I used AI to help me understand how to properly apply abstract base classes and make sure all my subclasses followed the contract. It also helped me simplify my code and verify that my end-to-end demo worked the way the assignment aasked.
+
+Week 10
+I used AI this week to help clean up and organize my Project 3 code so it actually followed the inheritance, polymorphism, and composition requirements without breaking anything from Project 2. It also helped me rewrite my README so it matched the assignment format and explained my design choices clearly. I also used it to walk through the weekly exercises so I could check my thinking and make sure I was doing each step correctly.
