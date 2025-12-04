@@ -29,3 +29,6 @@ I used AI to help me understand how to properly apply abstract base classes and 
 
 Week 10
 I used AI this week to help clean up and organize my Project 3 code so it actually followed the inheritance, polymorphism, and composition requirements without breaking anything from Project 2. It also helped me rewrite my README so it matched the assignment format and explained my design choices clearly. I also used it to walk through the weekly exercises so I could check my thinking and make sure I was doing each step correctly.
+
+Week 12
+I used AI this week to help clean up and reorganize my code so the transition from Project 3 to Project 4 was smoother and everything integrated the way our system needs. It also helped me rewrite my documentation so it matched the Project 4 requirements and clearly explained our design choices. Using it made it easier to confirm that all the updated pieces work together the way they’re supposed to.
